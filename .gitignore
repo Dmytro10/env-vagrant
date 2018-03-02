@@ -1,0 +1,54 @@
+# vagrant files
+/.vagrant/
+
+# projects files
+/www/html/
+/www/Dashboard/
+/www/1800option/
+/www/BinaryUno/
+/www/GlenmoreInvestments/
+/www/eqblackrock/
+/www/MPA/
+/www/MedianMarketing/
+/www/CreditCube/
+/www/GetResponder/
+/www/VitalCapital/
+/www/AlphaPromotions/
+/www/RoyalPromotions/
+/www/TradeMaster/
+/www/mtxcapital/
+/www/BOFX/
+/www/RoyalCapitalPro/
+/www/FunnelSystem
+/www/GeoIp/
+/www/TradeTTN/
+
+
+# databases backups
+*.sql
+
+# ignore log files and databases
+*.log
+#*.sql
+*.sqlite
+*.mmdb
+
+# ignore packaged files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# ignore Editor files
+*.sublime-project
+*.sublime-workspace
+*.idea
+
+# ignore OS generated files
+ehthumbs.db
+Thumbs.db
+
